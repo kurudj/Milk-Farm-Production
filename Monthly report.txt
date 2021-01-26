@@ -1,0 +1,4 @@
+Total Milk Weight - 18805
+Percent of milk weight for Farm 0 - 35.66. Milk Weight for Farm 0 - 6705.
+Percent of milk weight for Farm 1 - 46.68. Milk Weight for Farm 1 - 8779.
+Percent of milk weight for Farm 2 - 17.66. Milk Weight for Farm 2 - 3321.
